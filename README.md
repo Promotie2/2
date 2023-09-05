@@ -4,3 +4,6 @@ BotGhost-StatusBot is an awesome feature for BotGhost users to make custom bot s
 Make sure to give this project a star if this tool helpful!
 
 ### Hosting Guide!
+```
+soon!
+```
