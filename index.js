@@ -5,7 +5,7 @@ const colors = require("colors");
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => res.send('Hello World!'));
-app.listen(port, () => console.log('\x1b[36m%s\x1b[0m', `|    🔗 Listening to RTX : ${port}`));
+app.listen(port, () => console.log('\x1b[36m%s\x1b[0m', `|    🔗 Listening to Discord.js : ${port}`));
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
