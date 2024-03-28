@@ -22,7 +22,7 @@ client.on('ready', () => {
         game: {
             name: 'Spotify ',
             type: "LISTENING",
-            url: "https://www.twitch.tv/monstercat"
+            url: "https://discord.gg/BA6ybMdKbc"
         }
     });
 });
