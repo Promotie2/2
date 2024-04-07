@@ -20,9 +20,9 @@ client.on('ready', () => {
     client.user.setStatus('available')
     client.user.setPresence({
         game: {
-            name: 'Spotify ',
-            type: "LISTENING",
-            url: "https://discord.gg/BA6ybMdKbc"
+            name: 'Wolf Bots security ',
+            type: "WATCHING",
+            url: "https://discord.gg/R7Wqk944Ux"
         }
     });
 });
